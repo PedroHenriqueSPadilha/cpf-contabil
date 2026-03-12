@@ -2001,12 +2001,12 @@ ul {
     justify-content: center;
   }
 
-    .hero-store img {
-        width: 250px;
-        height: 70px;
-        margin-top: -22rem;
-        margin-left: -25px;
-    }
+  .hero-store img {
+    width: 250px;
+    height: 70px;
+    margin-top: -22.5rem;
+    margin-left: -25px;
+  }
 
   .hero-image img,
   .hero-visual img {
@@ -2439,6 +2439,7 @@ ul {
     margin-bottom: 14px;
     max-width: 100%;
     line-height: 1.2;
+    margin-left: -2.8rem;
   }
 
   .hero-store {
