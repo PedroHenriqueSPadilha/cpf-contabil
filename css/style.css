@@ -2429,6 +2429,7 @@ ul {
   }
 
   .hero-text h1 {
+    width: 400px;
     line-height: 1.02;
     max-width: 100%;
     margin-bottom: 10px;
